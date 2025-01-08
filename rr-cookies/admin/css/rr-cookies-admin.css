@@ -1,0 +1,58 @@
+.rr-cookies-admin-wrapper {
+    margin: 20px;
+}
+
+.rr-cookies-admin-wrapper .form-table th {
+    padding: 20px 10px;
+}
+
+.rr-cookies-admin-wrapper .form-table td {
+    padding: 15px 10px;
+}
+
+.rr-cookies-color-picker {
+    width: 80px;
+}
+
+.rr-cookies-tooltip {
+    color: #666;
+    font-style: italic;
+    margin-top: 5px;
+}
+
+.rr-cookies-section-description {
+    margin-bottom: 20px;
+    padding: 10px;
+    background: #fff;
+    border-left: 4px solid #2271b1;
+}
+
+.rr-cookies-preview {
+    margin: 20px 0;
+    padding: 20px;
+    background: #f0f0f1;
+    border: 1px solid #c3c4c7;
+}
+
+/* Tab styling */
+.nav-tab-wrapper {
+    margin-bottom: 20px;
+}
+
+.nav-tab {
+    margin-left: 0.5em;
+}
+
+.nav-tab-active {
+    background: #fff;
+    border-bottom: 1px solid #fff;
+}
+
+/* Color picker adjustments */
+.wp-picker-container {
+    display: inline-block;
+}
+
+.wp-picker-container .wp-color-result.button {
+    margin: 0 6px;
+}

@@ -1,0 +1,41 @@
+# Copyright (C) 2024 Ruhani Rabin
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: RR Cookies 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rr-cookies\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-01T12:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: rr-cookies\n"
+
+#: admin/class-rr-cookies-admin.php:123
+msgid "Cookie Settings"
+msgstr ""
+
+#: admin/class-rr-cookies-admin.php:124
+msgid "Manage your cookie consent settings"
+msgstr ""
+
+#: public/partials/cookie-banner.php:15
+msgid "We use cookies to enhance your experience"
+msgstr ""
+
+#: public/partials/cookie-banner.php:25
+msgid "Accept All"
+msgstr ""
+
+#: public/partials/cookie-preferences.php:12
+msgid "Necessary Cookies"
+msgstr ""
+
+#: public/partials/cookie-preferences.php:13
+msgid "These cookies are essential for the website to function properly"
+msgstr ""
+
+# Add more strings as needed
